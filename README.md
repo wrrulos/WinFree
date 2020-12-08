@@ -5,6 +5,7 @@
 <img src="https://github.com/wrrulos/WinFree/blob/main/imagenes-github/menu1.PNG" title="WinFree">
 </p>
 <br/>
+
 ## Como usar
 
 * Ejecutar el archivo "WinFree.bat"
