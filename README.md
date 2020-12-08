@@ -1,11 +1,10 @@
-# Tool 10
+# WinFree
 <h3> Herramienta para eliminar o instalar programas preinstalados de Windows10 </h3>
 <br/>
 <p align="center">
 <img src="https://github.com/wrrulos/WinFree/blob/main/imagenes-github/menu1.PNG" title="WinFree">
 </p>
 <br/>
-
 # Como usar
 
 * Ejecutar el archivo "WinFree.bat"
