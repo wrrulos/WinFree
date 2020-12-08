@@ -1,5 +1,5 @@
 # WinFree
-<h3> Herramienta para eliminar o instalar programas preinstalados de Windows10 </h3>
+<h3> WinFree es una herramienta para activar cualquier version de Windows10 totalmente gratis y seguro. </h3>
 <br/>
 <p align="center">
 <img src="https://github.com/wrrulos/WinFree/blob/main/imagenes-github/menu1.PNG" title="WinFree">
