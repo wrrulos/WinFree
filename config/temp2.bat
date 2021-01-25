@@ -28,6 +28,6 @@ if '%errorlevel%' NEQ '0' (
     CD /D "%~dp0" 
 
 cd %ubicacion%
-title WinFree 0.1
+title WinFree
 Powershell.exe -executionpolicy remotesigned -File temp1.ps1
 :fin
