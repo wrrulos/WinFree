@@ -1,6 +1,6 @@
 title WinFree
 @echo off
-title Tool10 v1.0
+title WinFree10 v0.1
 set ubicacion=%cd%
 del temp1.ps1
 cd config
