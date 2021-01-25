@@ -1,4 +1,4 @@
-# WinFree
+# WinFree v0.1
 <h3> WinFree es una herramienta para activar cualquier version de Windows 10 totalmente gratis y seguro. </h3>
 <br/>
 <p align="center">
