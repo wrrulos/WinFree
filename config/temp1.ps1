@@ -1,7 +1,7 @@
 # =====================================
 # Autor: wrrulos
 # WinFree es una herramienta para activar cualquier version de Windows10 totalmente gratis y seguro!
-# Version: 1.0
+# Version: 0.1
 # Github: https://github.com/wrrulos/winfree
 #
 # Discord: Rulo#9224
@@ -11,7 +11,7 @@
 # =====================================
 # WFYCO - Waiting for you come out
 #
-# Discord: discord.gg/HtCHzDV
+# Discord: https://discord.gg/7qnpMj3HrY
 # Instagram: @wfycoteam
 # Twitter: @wfycoteam
 #
