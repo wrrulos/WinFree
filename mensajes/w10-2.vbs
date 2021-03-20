@@ -1,1 +1,0 @@
-msgbox "Windows 10 ya esta activado!",0,"WinFree" 

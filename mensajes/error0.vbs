@@ -1,1 +1,0 @@
-msgbox "Escribe una opcion valida!",48,"WinFree | ERROR" 
