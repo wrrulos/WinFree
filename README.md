@@ -1,18 +1,13 @@
-# WinFree v0.1
+# WinFree v0.2 BETA
 <h3> WinFree es una herramienta para activar cualquier version de Windows 10 totalmente gratis y seguro. </h3>
 <br/>
 <p align="center">
-<img src="https://github.com/wrrulos/WinFree/blob/main/imagenes-github/menu1.PNG" title="WinFree">
 </p>
 <br/>
 
 ## Como usar
 
-* Ejecutar el archivo "WinFree.bat"
-
-## Screenshots
-
-<img src="https://github.com/wrrulos/WinFree/blob/main/imagenes-github/menu2.PNG">
+* Ejecutar el archivo "WinFree.bat" como administrador.
 
 ## Tutorial 
 
