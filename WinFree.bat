@@ -1,6 +1,6 @@
 ::
 :: ######################################
-:: ##           WinFree v0.2           ## https://github.com/EDragon404/EDragonKMS/blob/master/ghpymKMS_V3.0.bat
+:: ##           WinFree v0.2           ## 
 :: ##   ¡ Activa Windows gratis !      ##
 :: ##           @wrrulos               ##
 :: ######################################
