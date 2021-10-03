@@ -1,6 +1,6 @@
 # 🛡  WinFree v1.0
 
-<h3> Herramienta de pentesting para Minecraft </h3>
+<h3> Herramienta para activar cualquier version de Windows 10 totalmente gratis y seguro  </h3>
 <br/>
 </br>
 <p align="center">
