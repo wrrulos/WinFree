@@ -1,15 +1,38 @@
-# WinFree v0.2 BETA
-<h3> WinFree es una herramienta para activar cualquier version de Windows 10 totalmente gratis y seguro. </h3>
+# 🛡  WinFree v1.0
+
+<h3> Herramienta de pentesting para Minecraft </h3>
 <br/>
+</br>
 <p align="center">
+<img src="https://github.com/wrrulos/Imagenes-Github/blob/main/WinFree/Win2.PNG" title="WinFree">
 </p>
 <br/>
 
-## Como usar
+# 🛠 Caracteristicas
 
-* Ejecutar el archivo "WinFree.bat" como administrador.
+* Ver informacion de un servidor
+* Ver informacion de un jugador
+* Escaneo de puertos
+* Escaneo de rango
+* Escaneo de nodos de un hosting
+* Escaneo de subdominios
+* Crear un bungee local
+* Crear un servidor falso (phishing)
+* La herramienta cuenta con su version en Español y Ingles
 
-## Tutorial 
+## 💻 Sistemas Operativos compatibles:
+
+* ✅ Windows (10)
+
+# 🕹 Ejecutar
+
+* Ejecutar WinFree.bat como administrador
+
+## 📸 Screenshots
+
+<img src="https://github.com/wrrulos/Imagenes-Github/blob/main/WinFree/Win1.PNG">
+
+## 🎞 Video 
 
 <p> No disponible.</p>
 
