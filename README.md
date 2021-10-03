@@ -10,15 +10,7 @@
 
 # 🛠 Caracteristicas
 
-* Ver informacion de un servidor
-* Ver informacion de un jugador
-* Escaneo de puertos
-* Escaneo de rango
-* Escaneo de nodos de un hosting
-* Escaneo de subdominios
-* Crear un bungee local
-* Crear un servidor falso (phishing)
-* La herramienta cuenta con su version en Español y Ingles
+* Activa cualquier versión de Windows 10 automaticamente.
 
 ## 💻 Sistemas Operativos compatibles:
 
