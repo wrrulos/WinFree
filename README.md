@@ -12,9 +12,9 @@
 
 * Activa cualquier versión de Windows 10 automaticamente.
 
-## 💻 Sistemas Operativos compatibles:
+## 💻 Versiones de Windows compatibles:
 
-* ✅ Windows (10)
+* ✅ Windows 10
 
 # 🕹 Ejecutar
 
