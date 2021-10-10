@@ -15,6 +15,7 @@
 ## 💻 Versiones de Windows compatibles:
 
 * ✅ Windows 10
+* ✅ Windows 11
 
 # 🕹 Ejecutar
 
