@@ -1,6 +1,6 @@
 # 🛡  WinFree v1.0
 
-<h3> Herramienta para activar cualquier version de Windows 10 y 11 totalmente gratis y seguro  </h3>
+<h3> Tool to activate any version of Windows 10 and 11 totally free and safe  </h3>
 <br/>
 </br>
 <p align="center">
@@ -8,18 +8,15 @@
 </p>
 <br/>
 
-# 🛠 Caracteristicas
-
-* Activa cualquier versión de Windows 10 automaticamente.
-
-## 💻 Versiones de Windows compatibles:
+## 💻 Supported Windows Versions:
 
 * ✅ Windows 10
 * ✅ Windows 11
 
-# 🕹 Ejecutar
+# 🕹 Run
 
-* Ejecutar WinFree.bat como administrador
+* Run WinFree.bat as administrator
+
 
 ## 📸 Screenshots
 
